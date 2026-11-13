@@ -1,0 +1,15 @@
+{
+	"license": "proprietary",
+	"author": "suisei",
+	"name": "chat-app",
+	"contributors": [
+		"suisei",
+		"The DraconicKit People"
+	],
+	"type": "module",
+	"version": "1.0.0",
+	"dependencies": {
+		"svelte": "^5.57.2",
+		"shinku": "file:./.shinku/esm"
+	}
+}
